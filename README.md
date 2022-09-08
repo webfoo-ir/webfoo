@@ -1,4 +1,4 @@
 # webfoo
 WebFoo website 🟣🟩
 
-()[https://webfoo.ir/]
+https://webfoo.ir/
