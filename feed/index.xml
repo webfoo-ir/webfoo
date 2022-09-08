@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>آژانس طراحی سایت وب‌فو</title>
+	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>آژانس طراحی سایت با بیش از ۵ سال سابقه</description>
+	<lastBuildDate>Thu, 08 Sep 2022 10:51:10 +0000</lastBuildDate>
+	<language>fa-IR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/04/cropped-webfoo-fav-32x32.webp</url>
+	<title>آژانس طراحی سایت وب‌فو</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>بهترین درگاه‌های پرداخت آنلاین برای سایت‌های فروشگاهی</title>
+		<link>/best-payment-gateway-for-ecommerce-website/</link>
+					<comments>/best-payment-gateway-for-ecommerce-website/#respond</comments>
+		
+		<dc:creator><![CDATA[وب فو]]></dc:creator>
+		<pubDate>Mon, 14 Feb 2022 15:48:13 +0000</pubDate>
+				<category><![CDATA[دسته‌بندی نشده]]></category>
+		<guid isPermaLink="false">/?p=215</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/best-payment-gateway-for-ecommerce-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>۱۰ نکته مهم در طراحی سایت فروشگاهی</title>
+		<link>/10-tips-for-ecommerce-website/</link>
+					<comments>/10-tips-for-ecommerce-website/#respond</comments>
+		
+		<dc:creator><![CDATA[وب فو]]></dc:creator>
+		<pubDate>Mon, 14 Feb 2022 15:30:48 +0000</pubDate>
+				<category><![CDATA[دسته‌بندی نشده]]></category>
+		<guid isPermaLink="false">/?p=213</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/10-tips-for-ecommerce-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>چرا هر کسب و کاری به یک سایت اختصاصی نیاز دارد؟</title>
+		<link>/why-every-business-needs-a-website/</link>
+					<comments>/why-every-business-needs-a-website/#respond</comments>
+		
+		<dc:creator><![CDATA[وب فو]]></dc:creator>
+		<pubDate>Mon, 14 Feb 2022 15:15:23 +0000</pubDate>
+				<category><![CDATA[دسته‌بندی نشده]]></category>
+		<guid isPermaLink="false">/?p=207</guid>
+
+					<description><![CDATA[سایت اختصاصی سایت فروشگاهی سایت فروشگاهی سایت شرکتی سایت شرکتی کسب و کار نوپا داخلی راخلی خارجی خارجی]]></description>
+										<content:encoded><![CDATA[
+
+
+<h2 id="سایت-اختصاصی">سایت اختصاصی</h2>
+
+
+
+<h3>سایت فروشگاهی</h3>
+<p>سایت فروشگاهی</p>
+<h3>سایت شرکتی</h3>
+<p>سایت شرکتی</p>
+
+
+
+<div class="wp-block-spacer" style="height: 100px;" aria-hidden="true"> </div>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img class="wp-image-226" src="/wp-content/uploads/2022/02/web-design-1024x683.jpg" alt="" height="480" srcset="/wp-content/uploads/2022/02/web-design-1024x683.jpg 1024w, /wp-content/uploads/2022/02/web-design-300x200.jpg 300w, /wp-content/uploads/2022/02/web-design-768x512.jpg 768w, /wp-content/uploads/2022/02/web-design.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption>سایت فروشگاهی</figcaption>
+</figure>
+</div>
+
+
+
+<div class="wp-block-spacer" style="height: 50px;" aria-hidden="true"> </div>
+<h2 aria-hidden="true">کسب و کار</h2>
+<h3>کسب و کار نوپا</h3>
+
+
+
+<p>کسب و کار نوپا</p>
+<h4>داخلی</h4>
+<p>راخلی</p>
+<h4>خارجی</h4>
+<p>خارجی</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/why-every-business-needs-a-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
